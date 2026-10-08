@@ -1,0 +1,15 @@
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\bin\Debug\net10.0\OptimizationLab10.exe
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\bin\Debug\net10.0\OptimizationLab10.deps.json
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\bin\Debug\net10.0\OptimizationLab10.runtimeconfig.json
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\bin\Debug\net10.0\OptimizationLab10.dll
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\bin\Debug\net10.0\OptimizationLab10.pdb
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\OptimizationLab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\OptimizationLab10.AssemblyInfoInputs.cache
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\OptimizationLab10.AssemblyInfo.cs
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\OptimizationLab10.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\OptimizationLab10.dll
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\refint\OptimizationLab10.dll
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\OptimizationLab10.pdb
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\OptimizationLab10.genruntimeconfig.cache
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\ref\OptimizationLab10.dll
+C:\Users\ПК\Downloads\OptimizationLab10\OptimizationLab10\OptimizationLab10\obj\Debug\net10.0\Optimiza.5A343273.Up2Date
